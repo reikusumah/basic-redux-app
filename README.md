@@ -1,3 +1,7 @@
+### Click for [Demo](https://redux-simple-count-todo.netlify.app/)
+
+Learning basic redux lifecycle with count and todos simple app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
